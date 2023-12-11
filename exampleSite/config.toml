@@ -1,0 +1,38 @@
+title = "Clinica Geriatrica Maura"
+homedir = "Home"
+baseURL = "localhost:1313"
+languageCode = "es-es"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+resourceDir = "../resources"
+
+DefaultContentLanguage = "es"
+SectionPagesMenu = "main"
+Paginate = 5 
+googleAnalytics = ""
+enableRobotsTXT = true
+
+[languages]
+  [languages.es]
+    title = "Clinica Geriatrica Maura"
+    weight = 1
+    contentDir = "content/es"
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+"homelink" = "Inicio"
+  text_color = ""
+  author = ""
+  favicon = ""
+  site_logo = ""
+  description = "Tu hogar, nuestro trabajo"
+  # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  recent_posts_number = 5
+
+[[params.ananke_socials]]
+name = "Maile"
+url = "mail:agustinbasile6@gmail.com"
