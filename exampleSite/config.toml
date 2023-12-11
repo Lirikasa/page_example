@@ -1,6 +1,6 @@
 title = "Clinica Geriatrica Maura"
 homedir = "Home"
-baseURL = "localhost:1313"
+baseURL = "https://lirikasa.github.io"
 languageCode = "es-es"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
