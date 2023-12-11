@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Servicios on Clinica Geriatrica Maura</title>
+    <link>https://lirikasa.github.io/page_example/post/</link>
+    <description>Recent content in Servicios on Clinica Geriatrica Maura</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <atom:link href="https://lirikasa.github.io/page_example/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Otros servicios</title>
+      <link>https://lirikasa.github.io/page_example/post/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lirikasa.github.io/page_example/post/chapter-1/</guid>
+      <description> Asesoramiento en la gestión de trámites (Pami, reintegros por discapacidad, obras sociales etc) Ambientes monitoreados por cámaras de seguridad Sistema de alarma contra incendio Luces de Emergencia Servicio de Mantenimiento Grupo electrógeno </description>
+    </item>
+    <item>
+      <title>Servicios de atención y hotelería</title>
+      <link>https://lirikasa.github.io/page_example/post/chapter-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lirikasa.github.io/page_example/post/chapter-3/</guid>
+      <description> Asistencia geriátrica personal y especializada Dietas equilibradas y ajustadas a cada necesidad Servicios de peluquería y pedicuría Baños para discapacitados Habitaciones con timbre llamador y camas ortopédicas Calefacción central Servicio de lavandería Pc a disposición para los residentes las 24 hs. Teléfono Wi fi </description>
+    </item>
+    <item>
+      <title>Servicios de recreación</title>
+      <link>https://lirikasa.github.io/page_example/post/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lirikasa.github.io/page_example/post/chapter-2/</guid>
+      <description> Actividades programadas de lunes a sábados Terapia ocupacional Taller de Estimulación Cognitiva Músico-terapia Taller Social (con la Trabajadora Social -charlas de actualidad, interés general) Festejos con Shows en vivo 3 veces al año Festejo de cumpleaños Fiesta de Fin de Año </description>
+    </item>
+    <item>
+      <title>Servicios médicos</title>
+      <link>https://lirikasa.github.io/page_example/post/chapter-4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://lirikasa.github.io/page_example/post/chapter-4/</guid>
+      <description> Seguimiento Médico Clínico periódico (3 veces por semana) Seguimiento Psiquiátrico semanal Seguimiento Nutricional semanal Servicios de Psicología semanal Servicios de Trabajadora Social semanal Servicio de Kinesiología grupal Servicios de Enfermería 24Hs Controles clínicos con análisis de laboratorio Supervisión de medicación y servicios de farmacia </description>
+    </item>
+  </channel>
+</rss>
